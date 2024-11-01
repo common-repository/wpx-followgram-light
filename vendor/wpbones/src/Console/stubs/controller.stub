@@ -1,0 +1,29 @@
+<?php
+
+use {Namespace}\Http\Controllers{Path};
+use {Namespace}\Http\Controllers\Controller;
+
+class {ControllerName} extends Controller
+{
+
+  public function index()
+  {
+    // GET
+  }
+
+  public function store()
+  {
+    // POST
+  }
+
+  public function update()
+  {
+    // PUT AND PATCH
+  }
+
+  public function destroy()
+  {
+    // DELETE
+  }
+
+}
